@@ -14,7 +14,7 @@ tags:
 thumbnail: golang
 ---
 
-In this post we would try to minimize out cost on GCS GCP using Redis.
+Cloud computing is a blessing. But we need to use it wisely. In this post we would try to minimize out cost on GCS GCP using Redis.
 
 # Continuous Integration
 
