@@ -4,7 +4,7 @@ series: ["Binary Tree Notes 101"]
 date: 2022-07-27T00:00:00+00:00
 draft: false
 author: "Masum Osman Khan"
-canonical: https://blog.devops.dev/included-redis-to-minimize-huge-cost-on-gcp-gcs-per-hit-e64112fe5f75
+canonical: 
 categories:
   - blog
 tags:
