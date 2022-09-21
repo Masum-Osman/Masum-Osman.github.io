@@ -2,7 +2,7 @@
 title: "Bio"
 date: 2022-03-22T00:00:00+00:00
 draft: false
-author: "Jacob Tomlinson"
+author: "Masum Osman Khan"
 categories:
   - blog
 tags:
@@ -10,21 +10,21 @@ tags:
 thumbnail: journal
 ---
 
-From time to time I give talks and run workshops and folks will ask me for a bio. You may even be one of those folks and I've directed you to this page! Huzzah the system works!
+<!-- From time to time I give talks and run workshops and folks will ask me for a bio. You may even be one of those folks and I've directed you to this page! Huzzah the system works!
 
 Here's a bunch of different length bio's that anyone is welcome to use if you're organizing an event and you need a bio for me.
 
-_Note: This page may be updated from time to time._
+_Note: This page may be updated from time to time._ -->
 
-## My current profile picture
+<!-- ## My current profile picture
 
-![Jacob Tomlinson Profile Picture](https://i.imgur.com/HT8Jc4N.jpg)
+![Jacob Tomlinson Profile Picture](https://github.com/Masum-Osman/Masum-Osman.github.io/blob/master/resources/_gen/images/image_suit.png) -->
 
-## General bio's of various lengths
+<!-- ## General bio's of various lengths -->
 
-### Short
+### Intro
 
-Jacob Tomlinson is a software engineer at [NVIDIA](https://www.nvidia.com/).
+I am software engineer. Currently working at [Truck Lagbe Inc.](https://www.trucklagbe.com/). I am an Engineer by both as Profession & Hobby. I love solving problems. I love to get introduced with new things. I love to create them as well.
 
 ### Medium
 
