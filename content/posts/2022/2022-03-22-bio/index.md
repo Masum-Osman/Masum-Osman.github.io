@@ -24,7 +24,7 @@ _Note: This page may be updated from time to time._ -->
 
 ### Intro
 
-I am software engineer. Currently working at [Truck Lagbe Inc.](https://www.trucklagbe.com/). I am an Engineer by both as Profession & Hobby. I love solving problems. I love to get introduced with new things. I love to create them as well.
+I am software engineer. Currently working at [Truck Lagbe Inc.](https://www.trucklagbe.com/). I am an Engineer by both as Profession & Hobby. I love solving problems. I love to get introduced with new things. I love to create them as well. I am a Developer for Fun.
 
 ### Medium
 
