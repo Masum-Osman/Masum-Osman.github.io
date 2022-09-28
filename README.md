@@ -25,3 +25,5 @@ hugo server -D
 ## License
 
 © Jacob Tomlinson
+
+![DHCP Message.png](https://github.com/Masum-Osman/Masum-Osman.github.io/blob/master/content/posts/2022/images/dhcp/DHCP%20Message.png)
