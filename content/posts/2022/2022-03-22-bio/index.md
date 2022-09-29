@@ -26,10 +26,10 @@ _Note: This page may be updated from time to time._ -->
 
 I am software engineer. Currently working at [Truck Lagbe Inc.](https://www.trucklagbe.com/). I am an Engineer by both as Profession & Hobby. I love solving problems. I love to get introduced with new things. I love to create them as well. I am a Developer for Fun.
 
-### Medium
+<!-- ### Medium
 
 Jacob Tomlinson is a senior software engineer at [NVIDIA](https://www.nvidia.com/). His work involves maintaining open source projects including [RAPIDS](https://rapids.ai/) and [Dask](https://dask.org/). He also tinkers with [Opsdroid](https://opsdroid.dev/) in his spare time. He lives in Exeter, UK.
 
 ### Technologies I've used
 
-Jacob Tomlinson is a senior Python software engineer at [NVIDIA](https://www.nvidia.com/) with a focus on deployment tooling for distributed systems. His work involves maintaining open source projects including [RAPIDS](https://rapids.ai/) and [Dask](https://dask.org/). RAPIDS is a suite of GPU accelerated open source Python tools which mimic APIs from the PyData stack including those of Numpy, Pandas and SciKit-Learn. Dask provides advanced parallelism for analytics with out-of-core computation, lazy evaluation and distributed execution of the PyData stack. He also tinkers with the open source chatbot automation framework [Opsdroid](https://opsdroid.dev/) in his spare time. Jacob volunteers with the local tech community group [Tech Exeter](https://techexeter.uk/) and lives in Exeter, UK.
+Jacob Tomlinson is a senior Python software engineer at [NVIDIA](https://www.nvidia.com/) with a focus on deployment tooling for distributed systems. His work involves maintaining open source projects including [RAPIDS](https://rapids.ai/) and [Dask](https://dask.org/). RAPIDS is a suite of GPU accelerated open source Python tools which mimic APIs from the PyData stack including those of Numpy, Pandas and SciKit-Learn. Dask provides advanced parallelism for analytics with out-of-core computation, lazy evaluation and distributed execution of the PyData stack. He also tinkers with the open source chatbot automation framework [Opsdroid](https://opsdroid.dev/) in his spare time. Jacob volunteers with the local tech community group [Tech Exeter](https://techexeter.uk/) and lives in Exeter, UK. -->
